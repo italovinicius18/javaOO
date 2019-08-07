@@ -19,12 +19,11 @@ public class Program {
         System.out.print("Is there an initial deposit (y/n): ");
         String verify = sc.nextLine();
 
-        if (verify.equals("y")){
+        if (verify.equals("y")) {
             System.out.print("Enter initial deposit value: ");
             double initialDeposit = sc.nextDouble();
             account = new Account(number, holder, initialDeposit);
-        }
-        else{
+        } else {
             account = new Account(number, holder); //inicia a conta com zero
         }
 
@@ -45,9 +44,6 @@ public class Program {
         account.moneyWithdraw(withdraw);
         System.out.println("Updated account data:");
         System.out.print(account);
-
-
-
 
 
         sc.close();
