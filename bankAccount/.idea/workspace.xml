@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f2daab2-2282-4ce7-9335-0eb992898e41" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../circle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../circle/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9f2daab2-2282-4ce7-9335-0eb992898e41" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/entities/Account.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+            <state relative-caret-position="200">
+              <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
               <folding>
                 <element signature="e#421#422#0" expanded="true" />
                 <element signature="e#450#451#0" expanded="true" />
@@ -162,6 +160,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -204,8 +203,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/entities/Account.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+        <state relative-caret-position="200">
+          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
           <folding>
             <element signature="e#421#422#0" expanded="true" />
             <element signature="e#450#451#0" expanded="true" />

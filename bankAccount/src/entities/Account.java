@@ -33,20 +33,20 @@ public class Account {
         return amount;
     }
 
-    public void moneyDeposit(double deposit){
-        this.amount+=deposit;
+    public void moneyDeposit(double deposit) {
+        this.amount += deposit;
     }
 
-    public void moneyWithdraw(double withdraw){
-        this.amount-=withdraw+5;
+    public void moneyWithdraw(double withdraw) {
+        this.amount -= withdraw + 5;
     }
 
-    public String toString(){
+    public String toString() {
         return "Account "
-               +number
-               +", Holder: "
-               +holder
-               +", Balance: $"
-               +String.format("%.2f\n",amount);
+                + number
+                + ", Holder: "
+                + holder
+                + ", Balance: $"
+                + String.format("%.2f\n", amount);
     }
 }
